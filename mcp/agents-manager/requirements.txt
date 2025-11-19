@@ -1,0 +1,4 @@
+mcp[cli]>=1.2.0
+httpx
+PyGithub>=2.1.1
+PyYAML>=6.0
